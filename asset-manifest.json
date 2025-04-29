@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/diet-health/static/css/main.e6c13ad2.css",
+    "main.js": "/diet-health/static/js/main.b49079fa.js",
+    "static/js/453.333c649c.chunk.js": "/diet-health/static/js/453.333c649c.chunk.js",
+    "index.html": "/diet-health/index.html",
+    "main.e6c13ad2.css.map": "/diet-health/static/css/main.e6c13ad2.css.map",
+    "main.b49079fa.js.map": "/diet-health/static/js/main.b49079fa.js.map",
+    "453.333c649c.chunk.js.map": "/diet-health/static/js/453.333c649c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.b49079fa.js"
+  ]
+}
